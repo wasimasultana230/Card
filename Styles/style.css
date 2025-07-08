@@ -62,3 +62,8 @@ h1 {
     letter-spacing: 2px;
     color: rgb(92, 85, 85);
 }
+footer{
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+}
